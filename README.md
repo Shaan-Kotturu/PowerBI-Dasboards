@@ -28,5 +28,7 @@ DAX
 
 Sample HR dataset
 
+🔒 Note
 
+This dashboard uses public sample HR data for learning and demonstration.
 
