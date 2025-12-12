@@ -32,3 +32,7 @@ Sample HR dataset
 
 This dashboard uses public sample HR data for learning and demonstration.
 
+📷 Dashboard Screenshot
+
+<img width="1622" height="1036" alt="image" src="https://github.com/user-attachments/assets/47c10613-9fbd-4326-9c69-3a70de412924" />
+
