@@ -1,38 +1,35 @@
-📊 HR Analytics Dashboard (Power BI)
+# 📊 HR Analytics Dashboard (Power BI)
 
-A Power BI dashboard providing insights into employee attrition, workforce distribution, and job satisfaction using sample HR data.
+A Power BI dashboard providing insights into **employee attrition**, **workforce distribution**, and **job satisfaction** using sample HR data.
 
-🔍 Key Features
+---
 
-Overall employee count, active employees & attrition KPIs
+## 🔍 Key Features
+- Overall employee count, active employees & attrition KPIs  
+- Department-wise attrition breakdown  
+- Workforce distribution by age group and gender  
+- Job satisfaction comparison across job roles  
+- Attrition by education field  
+- Gender-wise attrition rate across age bands  
 
-Department-wise attrition breakdown
+---
 
-Workforce distribution by age group and gender
-
-Job satisfaction comparison across job roles
-
-Attrition by education field
-
-Gender-wise attrition rate across age bands
-
-🎯 Purpose
-
+## 🎯 Purpose
 To analyze HR metrics and identify patterns that help understand workforce dynamics, high-risk areas, and attrition trends.
 
-🛠 Tools Used
+---
 
-Power BI Desktop / Service
+## 🛠 Tools Used
+- Power BI Desktop / Service  
+- DAX  
+- Sample HR dataset  
 
-DAX
+---
 
-Sample HR dataset
+## 📷 Dashboard Screenshot
+<img width="1630" height="1044" alt="image" src="https://github.com/user-attachments/assets/d2b190a6-44f9-4621-990c-c7b47dad70ce" />
 
-🔒 Note
+---
 
-This dashboard uses public sample HR data for learning and demonstration.
-
-📷 Dashboard Screenshot
-
-<img width="1622" height="1036" alt="image" src="https://github.com/user-attachments/assets/47c10613-9fbd-4326-9c69-3a70de412924" />
-
+## 🔒 Note
+This dashboard uses **public sample HR data** for learning and demonstration purposes.
